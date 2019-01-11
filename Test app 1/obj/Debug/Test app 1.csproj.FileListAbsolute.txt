@@ -14,3 +14,19 @@ C:\Users\truong\Desktop\research genetic algorithm\test app\Test app\Test app 1\
 C:\Users\truong\Desktop\research genetic algorithm\test app\Test app\Test app 1\obj\Debug\Test app 1.exe
 C:\Users\truong\Desktop\research genetic algorithm\test app\Test app\Test app 1\obj\Debug\Test app 1.pdb
 C:\Users\truong\Desktop\research genetic algorithm\test app\Test app\Test app 1\obj\Debug\Test app 1_Content.g.cs
+C:\Users\truong\Desktop\research genetic algorithm\GA-test\Test app 1\bin\Debug\Test app 1.exe.config
+C:\Users\truong\Desktop\research genetic algorithm\GA-test\Test app 1\bin\Debug\Test app 1.exe
+C:\Users\truong\Desktop\research genetic algorithm\GA-test\Test app 1\bin\Debug\Test app 1.pdb
+C:\Users\truong\Desktop\research genetic algorithm\GA-test\Test app 1\obj\Debug\Test app 1.csprojAssemblyReference.cache
+C:\Users\truong\Desktop\research genetic algorithm\GA-test\Test app 1\obj\Debug\MainWindow.g.cs
+C:\Users\truong\Desktop\research genetic algorithm\GA-test\Test app 1\obj\Debug\App.g.cs
+C:\Users\truong\Desktop\research genetic algorithm\GA-test\Test app 1\obj\Debug\Test app 1_Content.g.cs
+C:\Users\truong\Desktop\research genetic algorithm\GA-test\Test app 1\obj\Debug\Test app 1_MarkupCompile.cache
+C:\Users\truong\Desktop\research genetic algorithm\GA-test\Test app 1\obj\Debug\Test app 1_MarkupCompile.lref
+C:\Users\truong\Desktop\research genetic algorithm\GA-test\Test app 1\obj\Debug\MainWindow.baml
+C:\Users\truong\Desktop\research genetic algorithm\GA-test\Test app 1\obj\Debug\Test app 1.g.resources
+C:\Users\truong\Desktop\research genetic algorithm\GA-test\Test app 1\obj\Debug\Test_app_1.Properties.Resources.resources
+C:\Users\truong\Desktop\research genetic algorithm\GA-test\Test app 1\obj\Debug\Test app 1.csproj.GenerateResource.cache
+C:\Users\truong\Desktop\research genetic algorithm\GA-test\Test app 1\obj\Debug\Test app 1.csproj.CoreCompileInputs.cache
+C:\Users\truong\Desktop\research genetic algorithm\GA-test\Test app 1\obj\Debug\Test app 1.exe
+C:\Users\truong\Desktop\research genetic algorithm\GA-test\Test app 1\obj\Debug\Test app 1.pdb

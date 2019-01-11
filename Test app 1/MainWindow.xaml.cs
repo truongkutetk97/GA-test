@@ -13,6 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 using System.Runtime.InteropServices;
+
 namespace Test_app_1
 {
     /// <summary>
@@ -26,7 +27,9 @@ namespace Test_app_1
         
             [DllImport("test_Jan_11_12_44.dll", CallingConvention =CallingConvention.Cdecl)]
         public static extern int Addd(int a, int b);
-        
+        [DllImport("test_Jan_11_12_44.dll", CallingConvention = CallingConvention.Cdecl)]
+        public static extern int maiin();
+
         public MainWindow()
         {
             InitializeComponent();
@@ -37,7 +40,7 @@ namespace Test_app_1
 
            DisplayHelloFromDLL();
             int c = Addd(3, 5);
-        MessageBox.Show(Addd(3, 5).ToString());
+        MessageBox.Show(maiin().ToString());
 
         }
     }

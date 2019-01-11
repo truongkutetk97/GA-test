@@ -1,3 +1,18 @@
 ﻿  Sourceeeeee.cpp
-c:\users\truong\desktop\research genetic algorithm\test app\test app\test_jan_11_12_44\sourceeeeee.cpp(16): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
-  test_Jan_11_12_44.vcxproj -> C:\Users\truong\Desktop\research genetic algorithm\test app\Test app\Debug\test_Jan_11_12_44.dll
+c:\users\truong\desktop\research genetic algorithm\ga-test\test_jan_11_12_44\sourceeeeee.cpp(43): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+c:\users\truong\desktop\research genetic algorithm\ga-test\test_jan_11_12_44\sourceeeeee.cpp(99): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\truong\desktop\research genetic algorithm\ga-test\test_jan_11_12_44\sourceeeeee.cpp(125): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\truong\desktop\research genetic algorithm\ga-test\test_jan_11_12_44\sourceeeeee.cpp(159): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\truong\desktop\research genetic algorithm\ga-test\test_jan_11_12_44\sourceeeeee.cpp(164): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\truong\desktop\research genetic algorithm\ga-test\test_jan_11_12_44\sourceeeeee.cpp(348): warning C4101: 'x1': unreferenced local variable
+c:\users\truong\desktop\research genetic algorithm\ga-test\test_jan_11_12_44\sourceeeeee.cpp(498): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\truong\desktop\research genetic algorithm\ga-test\test_jan_11_12_44\sourceeeeee.cpp(526): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\truong\desktop\research genetic algorithm\ga-test\test_jan_11_12_44\sourceeeeee.cpp(529): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\truong\desktop\research genetic algorithm\ga-test\test_jan_11_12_44\sourceeeeee.cpp(531): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\truong\desktop\research genetic algorithm\ga-test\test_jan_11_12_44\sourceeeeee.cpp(537): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\truong\desktop\research genetic algorithm\ga-test\test_jan_11_12_44\sourceeeeee.cpp(545): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\truong\desktop\research genetic algorithm\ga-test\test_jan_11_12_44\sourceeeeee.cpp(570): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\truong\desktop\research genetic algorithm\ga-test\test_jan_11_12_44\sourceeeeee.cpp(571): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\truong\desktop\research genetic algorithm\ga-test\test_jan_11_12_44\sourceeeeee.cpp(573): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\truong\desktop\research genetic algorithm\ga-test\test_jan_11_12_44\sourceeeeee.cpp(574): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  test_Jan_11_12_44.vcxproj -> C:\Users\truong\Desktop\research genetic algorithm\GA-test\Debug\test_Jan_11_12_44.dll
