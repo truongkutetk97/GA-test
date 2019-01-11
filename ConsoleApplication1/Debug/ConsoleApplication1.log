@@ -1,0 +1,65 @@
+﻿  ConsoleApplication1.cpp
+c:\users\truong\desktop\research genetic algorithm\test app\test app\consoleapplication1\consoleapplication1.cpp(75): error C2065: 'NULL': undeclared identifier
+c:\users\truong\desktop\research genetic algorithm\test app\test app\consoleapplication1\consoleapplication1.cpp(75): error C3861: 'time': identifier not found
+c:\users\truong\desktop\research genetic algorithm\test app\test app\consoleapplication1\consoleapplication1.cpp(75): error C3861: 'srand': identifier not found
+c:\users\truong\desktop\research genetic algorithm\test app\test app\consoleapplication1\consoleapplication1.cpp(85): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\truong\desktop\research genetic algorithm\test app\test app\consoleapplication1\consoleapplication1.cpp(89): error C2065: 'cout': undeclared identifier
+c:\users\truong\desktop\research genetic algorithm\test app\test app\consoleapplication1\consoleapplication1.cpp(89): error C2065: 'endl': undeclared identifier
+c:\users\truong\desktop\research genetic algorithm\test app\test app\consoleapplication1\consoleapplication1.cpp(111): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\truong\desktop\research genetic algorithm\test app\test app\consoleapplication1\consoleapplication1.cpp(112): error C3861: 'exp': identifier not found
+c:\users\truong\desktop\research genetic algorithm\test app\test app\consoleapplication1\consoleapplication1.cpp(112): error C3861: 'rand': identifier not found
+c:\users\truong\desktop\research genetic algorithm\test app\test app\consoleapplication1\consoleapplication1.cpp(112): error C2065: 'RAND_MAX': undeclared identifier
+c:\users\truong\desktop\research genetic algorithm\test app\test app\consoleapplication1\consoleapplication1.cpp(145): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\truong\desktop\research genetic algorithm\test app\test app\consoleapplication1\consoleapplication1.cpp(149): error C2065: 'cout': undeclared identifier
+c:\users\truong\desktop\research genetic algorithm\test app\test app\consoleapplication1\consoleapplication1.cpp(149): error C2065: 'endl': undeclared identifier
+c:\users\truong\desktop\research genetic algorithm\test app\test app\consoleapplication1\consoleapplication1.cpp(150): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\truong\desktop\research genetic algorithm\test app\test app\consoleapplication1\consoleapplication1.cpp(154): error C2065: 'cout': undeclared identifier
+c:\users\truong\desktop\research genetic algorithm\test app\test app\consoleapplication1\consoleapplication1.cpp(156): error C2065: 'cout': undeclared identifier
+c:\users\truong\desktop\research genetic algorithm\test app\test app\consoleapplication1\consoleapplication1.cpp(156): error C2065: 'endl': undeclared identifier
+c:\users\truong\desktop\research genetic algorithm\test app\test app\consoleapplication1\consoleapplication1.cpp(159): error C2065: 'cout': undeclared identifier
+c:\users\truong\desktop\research genetic algorithm\test app\test app\consoleapplication1\consoleapplication1.cpp(159): error C2065: 'endl': undeclared identifier
+c:\users\truong\desktop\research genetic algorithm\test app\test app\consoleapplication1\consoleapplication1.cpp(161): error C2065: 'cout': undeclared identifier
+c:\users\truong\desktop\research genetic algorithm\test app\test app\consoleapplication1\consoleapplication1.cpp(163): error C2065: 'cout': undeclared identifier
+c:\users\truong\desktop\research genetic algorithm\test app\test app\consoleapplication1\consoleapplication1.cpp(163): error C2065: 'endl': undeclared identifier
+c:\users\truong\desktop\research genetic algorithm\test app\test app\consoleapplication1\consoleapplication1.cpp(165): error C2065: 'cout': undeclared identifier
+c:\users\truong\desktop\research genetic algorithm\test app\test app\consoleapplication1\consoleapplication1.cpp(180): error C2061: syntax error: identifier 'string'
+c:\users\truong\desktop\research genetic algorithm\test app\test app\consoleapplication1\consoleapplication1.cpp(180): error C2310: catch handlers must specify one type
+c:\users\truong\desktop\research genetic algorithm\test app\test app\consoleapplication1\consoleapplication1.cpp(181): error C2065: 'cerr': undeclared identifier
+c:\users\truong\desktop\research genetic algorithm\test app\test app\consoleapplication1\consoleapplication1.cpp(181): error C2065: 'errmsg': undeclared identifier
+c:\users\truong\desktop\research genetic algorithm\test app\test app\consoleapplication1\consoleapplication1.cpp(181): error C2065: 'endl': undeclared identifier
+c:\users\truong\desktop\research genetic algorithm\test app\test app\consoleapplication1\consoleapplication1.cpp(184): error C2065: 'cerr': undeclared identifier
+c:\users\truong\desktop\research genetic algorithm\test app\test app\consoleapplication1\consoleapplication1.cpp(184): error C2065: 'endl': undeclared identifier
+c:\users\truong\desktop\research genetic algorithm\test app\test app\consoleapplication1\consoleapplication1.cpp(183): error C2311: 'overloaded function type': is caught by '...' on line 180
+c:\users\truong\desktop\research genetic algorithm\test app\test app\consoleapplication1\consoleapplication1.cpp(186): error C3861: 'system': identifier not found
+c:\users\truong\desktop\research genetic algorithm\test app\test app\consoleapplication1\consoleapplication1.cpp(196): error C3861: 'random_shuffle': identifier not found
+c:\users\truong\desktop\research genetic algorithm\test app\test app\consoleapplication1\consoleapplication1.cpp(205): error C3861: 'random_shuffle': identifier not found
+c:\users\truong\desktop\research genetic algorithm\test app\test app\consoleapplication1\consoleapplication1.cpp(216): error C3861: 'rand': identifier not found
+c:\users\truong\desktop\research genetic algorithm\test app\test app\consoleapplication1\consoleapplication1.cpp(217): error C3861: 'rand': identifier not found
+c:\users\truong\desktop\research genetic algorithm\test app\test app\consoleapplication1\consoleapplication1.cpp(218): error C3861: 'rand': identifier not found
+c:\users\truong\desktop\research genetic algorithm\test app\test app\consoleapplication1\consoleapplication1.cpp(219): error C3861: 'rand': identifier not found
+c:\users\truong\desktop\research genetic algorithm\test app\test app\consoleapplication1\consoleapplication1.cpp(220): error C3861: 'min': identifier not found
+c:\users\truong\desktop\research genetic algorithm\test app\test app\consoleapplication1\consoleapplication1.cpp(221): error C3861: 'max': identifier not found
+c:\users\truong\desktop\research genetic algorithm\test app\test app\consoleapplication1\consoleapplication1.cpp(283): error C3861: 'rand': identifier not found
+c:\users\truong\desktop\research genetic algorithm\test app\test app\consoleapplication1\consoleapplication1.cpp(284): error C3861: 'rand': identifier not found
+c:\users\truong\desktop\research genetic algorithm\test app\test app\consoleapplication1\consoleapplication1.cpp(285): error C3861: 'rand': identifier not found
+c:\users\truong\desktop\research genetic algorithm\test app\test app\consoleapplication1\consoleapplication1.cpp(300): error C3861: 'rand': identifier not found
+c:\users\truong\desktop\research genetic algorithm\test app\test app\consoleapplication1\consoleapplication1.cpp(301): error C3861: 'rand': identifier not found
+c:\users\truong\desktop\research genetic algorithm\test app\test app\consoleapplication1\consoleapplication1.cpp(302): error C3861: 'rand': identifier not found
+c:\users\truong\desktop\research genetic algorithm\test app\test app\consoleapplication1\consoleapplication1.cpp(446): error C2065: 'cout': undeclared identifier
+c:\users\truong\desktop\research genetic algorithm\test app\test app\consoleapplication1\consoleapplication1.cpp(448): error C2065: 'cout': undeclared identifier
+c:\users\truong\desktop\research genetic algorithm\test app\test app\consoleapplication1\consoleapplication1.cpp(450): error C2065: 'cout': undeclared identifier
+c:\users\truong\desktop\research genetic algorithm\test app\test app\consoleapplication1\consoleapplication1.cpp(450): error C2065: 'endl': undeclared identifier
+c:\users\truong\desktop\research genetic algorithm\test app\test app\consoleapplication1\consoleapplication1.cpp(474): error C2065: 'cout': undeclared identifier
+c:\users\truong\desktop\research genetic algorithm\test app\test app\consoleapplication1\consoleapplication1.cpp(474): error C2065: 'endl': undeclared identifier
+c:\users\truong\desktop\research genetic algorithm\test app\test app\consoleapplication1\consoleapplication1.cpp(484): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\truong\desktop\research genetic algorithm\test app\test app\consoleapplication1\consoleapplication1.cpp(512): error C3861: 'ceil': identifier not found
+c:\users\truong\desktop\research genetic algorithm\test app\test app\consoleapplication1\consoleapplication1.cpp(515): error C3861: 'ceil': identifier not found
+c:\users\truong\desktop\research genetic algorithm\test app\test app\consoleapplication1\consoleapplication1.cpp(516): error C3861: 'random_shuffle': identifier not found
+c:\users\truong\desktop\research genetic algorithm\test app\test app\consoleapplication1\consoleapplication1.cpp(517): error C3861: 'ceil': identifier not found
+c:\users\truong\desktop\research genetic algorithm\test app\test app\consoleapplication1\consoleapplication1.cpp(523): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\truong\desktop\research genetic algorithm\test app\test app\consoleapplication1\consoleapplication1.cpp(531): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\truong\desktop\research genetic algorithm\test app\test app\consoleapplication1\consoleapplication1.cpp(556): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\truong\desktop\research genetic algorithm\test app\test app\consoleapplication1\consoleapplication1.cpp(557): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\truong\desktop\research genetic algorithm\test app\test app\consoleapplication1\consoleapplication1.cpp(559): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\truong\desktop\research genetic algorithm\test app\test app\consoleapplication1\consoleapplication1.cpp(560): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\truong\desktop\research genetic algorithm\test app\test app\consoleapplication1\consoleapplication1.cpp(562): error C3861: 'log': identifier not found

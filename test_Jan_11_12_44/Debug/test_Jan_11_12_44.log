@@ -1,0 +1,3 @@
+﻿  Sourceeeeee.cpp
+c:\users\truong\desktop\research genetic algorithm\test app\test app\test_jan_11_12_44\sourceeeeee.cpp(16): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  test_Jan_11_12_44.vcxproj -> C:\Users\truong\Desktop\research genetic algorithm\test app\Test app\Debug\test_Jan_11_12_44.dll
