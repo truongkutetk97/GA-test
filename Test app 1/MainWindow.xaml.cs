@@ -21,6 +21,7 @@ namespace Test_app_1
     /// </summary>
     public partial class MainWindow : Window
     {
+
         [DllImport("test_Jan_11_12_44.dll")]
 
         public static extern void DisplayHelloFromDLL();
@@ -28,7 +29,9 @@ namespace Test_app_1
             [DllImport("test_Jan_11_12_44.dll", CallingConvention =CallingConvention.Cdecl)]
         public static extern int Addd(int a, int b);
         [DllImport("test_Jan_11_12_44.dll", CallingConvention = CallingConvention.Cdecl)]
-        public static extern int maiin();
+        public static extern int subb(int a, int b);
+        [DllImport("test_Jan_11_12_44.dll", CallingConvention = CallingConvention.Cdecl)]
+        public static extern int maiin(int b);
 
         public MainWindow()
         {
@@ -40,7 +43,8 @@ namespace Test_app_1
 
            DisplayHelloFromDLL();
             int c = Addd(3, 5);
-        MessageBox.Show(maiin().ToString());
+            int j = 100;
+            MessageBox.Show(maiin(j).ToString());
 
         }
     }

@@ -29,20 +29,23 @@ using namespace std;
 
 extern "C"
 {
-	__declspec(dllexport)  void DisplayHelloFromDLL()
-	{
-		printf("Hello from DLL truong dep trai !\n");
-		
-	}
+	
 	__declspec(dllexport)  int Addd(int a, int b)
 	 {
+		
 		return a + b;
 	 }
 	__declspec(dllexport)  float subb(int a, int b)
 	 {
-		 return a - b;
+		
+		 return Addd(a, 2*b); 
 	 }
-	const int NumGen = 100;
+	__declspec(dllexport)  void DisplayHelloFromDLL()
+	{
+		printf("%d Hello from DLL truong dep trai !\n", Addd(3, 4));
+
+	}
+	//const int NumGen = 100;
 	const int PopSize = 50;
 	const int N = 10; //Number of patients
 	const int M = 5; //Number of machines
@@ -84,8 +87,8 @@ extern "C"
 	void Decoding();
 	void Initial_temperature();
 
-	__declspec(dllexport) int maiin() {// int argc, char **argv
-
+	__declspec(dllexport) int maiin(int ng) {// int argc, char **argv
+		const int NumGen = ng;
 		srand((unsigned)time(NULL));
 
 		try {
